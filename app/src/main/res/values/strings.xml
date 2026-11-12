@@ -5,7 +5,10 @@
     <string name="subtitulo2">Calcule a gorjeta, divida o total e envie cobranças sem estresse</string>
 
     <string name="sobre">Sobre o App</string>
+    <string name="input_valor">Valor Total ($):</string>
+    <string name="info_valor">Informe o valor total da conta a ser dividida</string>
 
     <string name="botao1">Nova Divisão</string>
+    <string name="botao2">Avançar</string>
 
 </resources>
