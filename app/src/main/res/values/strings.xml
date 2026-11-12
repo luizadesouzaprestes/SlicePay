@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SlicePay</string>
+
+    <string name="subtitulo1">Divida suas contas sem complicação</string>
+    <string name="subtitulo2">Calcule a gorjeta, divida o total e envie cobranças sem estresse</string>
+
+    <string name="sobre">Sobre o App</string>
+
+    <string name="botao1">Nova Divisão</string>
+
+</resources>
