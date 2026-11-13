@@ -20,6 +20,11 @@
     <string name="menos_pessoas">-</string>
     <string name="medidor_pessoas">0</string>
 
+    <string name="valor_ind">Valor Individual:</string>
+    <string name="chave_pix">Chave Pix:</string>
+    <string name="msg_cbc">Mensagem Cobrança:</string>
+    <string name="arredondar">Arredondar</string>
+    <string name="valor_final">00,00</string>
 
 
     <string name="botao1">Nova Divisão</string>
@@ -27,5 +32,6 @@
     <string name="botao3">Calcular Resultado</string>
     <string name="botao4">Finalizar</string>
     <string name="botaov">Voltar</string>
+    <string name="botaoc">Copiar</string>
 
 </resources>

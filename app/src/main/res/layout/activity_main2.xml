@@ -89,7 +89,7 @@
             android:layout_height="65dp"
             android:layout_gravity="center"
             android:layout_marginStart="60dp"
-            android:layout_marginTop="50dp"
+            android:layout_marginTop="45dp"
             android:layout_marginEnd="60dp"
             android:backgroundTint="@color/roxo"
             android:paddingStart="20dp"
@@ -107,7 +107,7 @@
             android:layout_width="match_parent"
             android:layout_height="60dp"
             android:layout_gravity="bottom"
-            android:layout_marginTop="20dp"
+            android:layout_marginTop="25dp"
             app:cardBackgroundColor="@color/roxo_claro"
             app:cardCornerRadius="15dp">
 
