@@ -70,7 +70,7 @@
             android:layout_marginTop="20dp"
             android:layout_marginEnd="20dp"
             android:ems="10"
-            android:hint="00,00"
+            android:hint="Exemplo: 50,00"
             android:inputType="number|numberDecimal" />
 
         <ImageView
@@ -87,7 +87,7 @@
             android:layout_width="match_parent"
             android:layout_height="60dp"
             android:layout_marginStart="60dp"
-            android:layout_marginTop="30dp"
+            android:layout_marginTop="50dp"
             android:layout_marginEnd="60dp"
             android:backgroundTint="@color/roxo"
             android:text="@string/botao2"

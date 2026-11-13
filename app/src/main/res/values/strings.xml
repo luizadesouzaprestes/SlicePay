@@ -7,6 +7,7 @@
     <string name="sobre">Sobre o App</string>
     <string name="input_valor">Valor Total ($):</string>
     <string name="info_valor">Informe o valor total da conta a ser dividida</string>
+
     <string name="input_gorjeta">Gorgeta (%):</string>
     <string name="info_gorjeta">Informe o valor a ser aplicado para gorgeta</string>
     <string name="input_pessoas">Seletor de Pessoas:</string>
@@ -15,6 +16,10 @@
     <string name="gorjeta_5">5%</string>
     <string name="gorjeta_10">10%</string>
     <string name="gorjeta_outra">Outra porcentagem (%):</string>
+    <string name="mais_pessoas">+</string>
+    <string name="menos_pessoas">-</string>
+    <string name="medidor_pessoas">0</string>
+
 
 
     <string name="botao1">Nova Divisão</string>
