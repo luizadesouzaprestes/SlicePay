@@ -25,6 +25,7 @@
     <string name="msg_cbc">Mensagem Cobrança:</string>
     <string name="arredondar">Arredondar</string>
     <string name="valor_final">00,00</string>
+    <string name="msg_copiar">Olá, segue sua parte da conta: 00,00. Minha chave é: chavepix@chave.pix. Obrigada por partilhar esse momento comigo!</string>
 
 
     <string name="botao1">Nova Divisão</string>
