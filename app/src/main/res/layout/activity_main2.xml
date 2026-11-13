@@ -60,6 +60,7 @@
             android:layout_height="wrap_content"
             android:layout_marginStart="20dp"
             android:text="@string/info_valor"
+            android:textColor="@color/cinza"
             android:textSize="18sp" />
 
         <EditText
@@ -84,15 +85,50 @@
 
         <Button
             android:id="@+id/button2"
-            android:layout_width="match_parent"
-            android:layout_height="60dp"
+            android:layout_width="170dp"
+            android:layout_height="65dp"
+            android:layout_gravity="center"
             android:layout_marginStart="60dp"
             android:layout_marginTop="50dp"
             android:layout_marginEnd="60dp"
             android:backgroundTint="@color/roxo"
+            android:paddingStart="20dp"
+            android:paddingLeft="0dp"
+            android:paddingTop="0dp"
+            android:paddingEnd="20dp"
+            android:paddingRight="0dp"
+            android:paddingBottom="0dp"
             android:text="@string/botao2"
+            android:textAlignment="center"
             android:textSize="25dp"
             app:cornerRadius="15dp" />
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_gravity="bottom"
+            android:layout_marginTop="20dp"
+            app:cardBackgroundColor="@color/roxo_claro"
+            app:cardCornerRadius="15dp">
+
+            <Button
+                android:id="@+id/button10"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:backgroundTint="@color/white"
+                android:padding="2dp"
+                android:paddingStart="2dp"
+                android:paddingLeft="2dp"
+                android:paddingTop="2dp"
+                android:soundEffectsEnabled="true"
+                android:text="@string/botaov"
+                android:textColor="@color/roxo"
+                android:textSize="25sp"
+                app:cornerRadius="10dp" />
+        </androidx.cardview.widget.CardView>
 
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>

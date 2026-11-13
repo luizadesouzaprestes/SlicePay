@@ -6,4 +6,6 @@
     <color name="verde_claro">#c1ff72</color>
     <color name="verde_escuro">#00af5b</color>
     <color name="roxo">#8c52ff</color>
+    <color name="roxo_claro">#caafff</color>
+    <color name="cinza">#929292</color>
 </resources>

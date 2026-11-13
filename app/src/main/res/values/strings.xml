@@ -25,5 +25,7 @@
     <string name="botao1">Nova Divisão</string>
     <string name="botao2">Avançar</string>
     <string name="botao3">Calcular Resultado</string>
+    <string name="botao4">Finalizar</string>
+    <string name="botaov">Voltar</string>
 
 </resources>
