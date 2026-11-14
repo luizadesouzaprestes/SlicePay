@@ -37,7 +37,7 @@
                 android:paddingEnd="120dp">
 
                 <TextView
-                    android:id="@+id/textView4"
+                    android:id="@+id/logo3"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:fontFamily="@font/alata"
@@ -79,7 +79,7 @@
             android:padding="10dp">
 
             <Button
-                android:id="@+id/button3"
+                android:id="@+id/buttonpct_0"
                 android:layout_width="wrap_content"
                 android:layout_height="70dp"
                 android:layout_marginStart="5dp"
@@ -91,7 +91,7 @@
                 app:cornerRadius="15dp" />
 
             <Button
-                android:id="@+id/button5"
+                android:id="@+id/buttonpct_5"
                 android:layout_width="wrap_content"
                 android:layout_height="70dp"
                 android:layout_marginStart="5dp"
@@ -103,7 +103,7 @@
                 app:cornerRadius="15dp" />
 
             <Button
-                android:id="@+id/button4"
+                android:id="@+id/buttonpct_10"
                 android:layout_width="wrap_content"
                 android:layout_height="70dp"
                 android:layout_marginStart="5dp"
@@ -125,7 +125,7 @@
             android:textSize="18sp" />
 
         <EditText
-            android:id="@+id/editTextText2"
+            android:id="@+id/input_pct3"
             android:layout_width="match_parent"
             android:layout_height="67dp"
             android:layout_marginStart="20dp"
@@ -162,7 +162,7 @@
             android:orientation="horizontal">
 
             <Button
-                android:id="@+id/button6"
+                android:id="@+id/button_adcpessoa3"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="50dp"
@@ -178,7 +178,7 @@
                 app:cornerRadius="15dp" />
 
             <TextView
-                android:id="@+id/textView16"
+                android:id="@+id/quant_pessoas"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
@@ -187,7 +187,7 @@
                 android:textSize="35sp" />
 
             <Button
-                android:id="@+id/button7"
+                android:id="@+id/button_sbtpessoa3"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="20dp"
@@ -204,7 +204,7 @@
         </LinearLayout>
 
         <Button
-            android:id="@+id/button8"
+            android:id="@+id/button3"
             android:layout_width="wrap_content"
             android:layout_height="65dp"
             android:layout_gravity="center"
@@ -226,7 +226,7 @@
             app:cardCornerRadius="15dp">
 
             <Button
-                android:id="@+id/button10"
+                android:id="@+id/voltar3"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:layout_marginStart="8dp"

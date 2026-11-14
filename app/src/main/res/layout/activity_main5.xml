@@ -36,7 +36,7 @@
                 android:paddingEnd="120dp">
 
                 <TextView
-                    android:id="@+id/textView22"
+                    android:id="@+id/logo5"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_gravity="bottom|center"
@@ -61,7 +61,7 @@
             android:textStyle="bold" />
 
         <TextView
-            android:id="@+id/textView24"
+            android:id="@+id/texto_sobre5"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginStart="20dp"
@@ -80,7 +80,7 @@
             app:cardCornerRadius="15dp">
 
             <Button
-                android:id="@+id/button10"
+                android:id="@+id/voltar5"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:layout_marginStart="8dp"

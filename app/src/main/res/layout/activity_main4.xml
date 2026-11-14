@@ -33,7 +33,7 @@
                 android:paddingEnd="120dp">
 
                 <TextView
-                    android:id="@+id/textView4"
+                    android:id="@+id/logo4"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:fontFamily="@font/alata"
@@ -78,7 +78,7 @@
                     app:cardCornerRadius="10dp">
 
                     <TextView
-                        android:id="@+id/textView17"
+                        android:id="@+id/valor_final4"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_gravity="center"
@@ -127,7 +127,7 @@
         </LinearLayout>
 
         <EditText
-            android:id="@+id/editTextText3"
+            android:id="@+id/chave_pix4"
             android:layout_width="match_parent"
             android:layout_height="59dp"
             android:layout_marginStart="20dp"
@@ -154,7 +154,7 @@
                 android:textStyle="bold" />
 
             <Button
-                android:id="@+id/button9"
+                android:id="@+id/button_copiar4"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_vertical"
@@ -187,7 +187,7 @@
                 app:cardCornerRadius="10dp">
 
                 <TextView
-                    android:id="@+id/textView21"
+                    android:id="@+id/mensagem_c4"
                     android:layout_width="322dp"
                     android:layout_height="88dp"
                     android:layout_gravity="center"
@@ -219,7 +219,7 @@
             app:cardCornerRadius="15dp">
 
             <Button
-                android:id="@+id/button10"
+                android:id="@+id/voltar4"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:layout_marginStart="8dp"
