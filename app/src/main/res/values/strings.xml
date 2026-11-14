@@ -27,6 +27,14 @@
     <string name="valor_final">00,00</string>
     <string name="msg_copiar">Olá, segue sua parte da conta: 00,00. Minha chave é: chavepix@chave.pix. Obrigada por partilhar esse momento comigo!</string>
 
+    <string name="sobre_app">Sobre o App</string>
+    <string name="sobre_txt">O Slice Pay simplifica a divisão de contas em grupo:
+    soma a gorjeta automaticamente, calcula o valor individual e gera o texto ideal para envio rápido.
+
+    Projeto de conclusão da disciplina de Programação para Dispositivos Móveis.
+
+    Por Luiza Prestes e Thaila Matana.
+    4º ano do Técnico em Informática Integrado.</string>
 
     <string name="botao1">Nova Divisão</string>
     <string name="botao2">Avançar</string>
