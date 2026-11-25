@@ -86,6 +86,21 @@ public class MainActivity4 extends AppCompatActivity {
         txtMensagemCobranca.setText(mensagem);
     }
 
+    public void alternarArredondamento(View view) {
+        estaArredondado = !estaArredondado;
+
+        if (estaArredondado) {
+            valorAtual = Math.ceil(valorOriginal); // Arredonda para cima
+            cardArredondar.setCardBackgroundColor(Color.parseColor("#00662E")); // Verde escuro indicando ativo
+            Toast.makeText(this, "Valor arredondado para cima!", Toast.LENGTH_SHORT).show();
+        } else {
+            valorAtual = valorOriginal; // Volta ao valor exato
+            cardArredondar.setCardBackgroundColor(Color.parseColor("#00B050")); // Verde padrão
+            Toast.makeText(this, "Valor exato restaurado!", Toast.LENGTH_SHORT).show();
+        }
+
+        atualizarTela();
+    }
 
     public void copiarMensagem(View view) {
         String textoParaCopiar = txtMensagemCobranca.getText().toString();

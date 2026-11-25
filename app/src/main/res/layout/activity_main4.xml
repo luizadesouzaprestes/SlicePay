@@ -94,6 +94,7 @@
                 android:onClick="alternarArredondamento"
                 app:cardBackgroundColor="@color/verde_escuro"
                 app:cardCornerRadius="15dp" />
+
         </LinearLayout>
 
         <LinearLayout

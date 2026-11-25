@@ -34,6 +34,9 @@ public class MainActivity extends AppCompatActivity {
         textSobre = findViewById(R.id.sobre1);
 
         }
+
+
+
         public void abrirNovaDivisao(View v){
             Intent intent = new Intent(this, MainActivity2.class);
             startActivity(intent);
@@ -42,6 +45,9 @@ public class MainActivity extends AppCompatActivity {
             Intent intent = new Intent(this, MainActivity5.class);
             startActivity(intent);
         }
+
+
+
 
 
     }

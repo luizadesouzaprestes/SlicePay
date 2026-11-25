@@ -30,6 +30,9 @@ public class MainActivity2 extends AppCompatActivity {
         edtValorTotal = findViewById(R.id.input_divisao2);
     }
 
+
+
+
     public void avancarTela3(View view) {
         String textoValor = edtValorTotal.getText().toString().trim();
 
@@ -57,5 +60,8 @@ public class MainActivity2 extends AppCompatActivity {
     public void voltarTela1(View view) {
         finish();
     }
+
+
+
 
 }
